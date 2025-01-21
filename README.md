@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Praise—though you can call me Kemi if you'd like.<br>I'm an aspiring Front-end Developer and Developer Advocate, passionate about building and improving my skills. I'm always eager to collaborate, especially on projects that involve APIs and push me to learn more.<br><br>What I'm about:<br>📌 Continuously learning and growing my technical knowledge.<br>📌 Seeking challenges that help me evolve as a developer.<br><br>Fun facts:<br>🌸 Coding keeps me on my toes, and I love it.<br>🌸 I'm into flatlay photography—it’s my creative outlet.<br>🌸 Music? Total therapy for the soul.
+Hi there! 👋<br>I'm Praise—though you can call me Kemi if you'd like.<br>I'm a Front-end Developer and aspiring Developer Advocate, passionate about building and improving my skills. I'm always eager to collaborate, especially on projects that involve APIs and push me to learn more.<br><br>What I'm about:<br>📌 Continuously learning and growing my technical knowledge.<br>📌 Seeking challenges that help me evolve as a developer.<br><br>Fun facts:<br>🌸 Coding keeps me on my toes, and I love it.<br>🌸 I'm into flatlay photography—it’s my creative outlet.<br>🌸 Music? Total therapy for the soul.
 
 
 ## 🌐 Socials:
